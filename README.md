@@ -13,8 +13,8 @@ dados, as procedures de entrada e os gatilhos que reagem a mudanças nas tabelas
  
 | Parte | Repositório |
 |---|---|
-| Aplicação mobile | `[preencher]` |
-| API backend | `[preencher]` |
+| Aplicação mobile | https://github.com/JonasHCzaja/citycare-swift-storyboard- |
+| API backend | https://github.com/JonasHCzaja/citycare-springboot |
 | **Automação em PL/SQL** | este |
  
 ## Stack
